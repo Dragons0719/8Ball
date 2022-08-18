@@ -1,5 +1,5 @@
 # Magic 8 Ball in Tkinter v2.0
-# August 18
+# August 18, 2022
 # Created by Elijah Rothenberger
 
 from tkinter import *
